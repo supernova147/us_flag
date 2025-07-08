@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+table {
+    border: solid black 5px;
+
+}
+
+#US_flag {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 47.09vh;
+    opacity: 1;
+}
+
+.red {
+    background-color: red;
+    width: 100vh;
+    height: 5vh;
+
+}
+
+.white {
+    background-color: whitesmoke;
+    width: 100vh;
+    height: 5vh;
+}
